@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am chutieuvn on github.
-  * I am chutieuvn90 (https://keybase.io/chutieuvn90) on keybase.
-  * I have a public key ASDY236m73m95M4_5ZRvCgbAJCakC3CwG6LjXlphpaKV_wo
+  * I am zedzed2 on github.
+  * I am zedzed (https://keybase.io/zedzed) on keybase.
+  * I have a public key ASCBisIC-YvWTRJiXT591pJph9qAGxNSU5PUNBg_szqfwQo
 
 To claim this, I am signing this object:
 
@@ -12,22 +12,22 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120d8db7ea6ef79bde4ce3fe5946f0a06c02426a40b70b01ba2e35e5a61a5a295ff0a",
+      "eldest_kid": "0120818ac202f98bd64d12625d3e7dd6926987da801b13525393d434183fb33a9fc10a",
       "host": "keybase.io",
-      "kid": "0120d8db7ea6ef79bde4ce3fe5946f0a06c02426a40b70b01ba2e35e5a61a5a295ff0a",
-      "uid": "f9415f51686ed5581301c506e8a19519",
-      "username": "chutieuvn90"
+      "kid": "0120818ac202f98bd64d12625d3e7dd6926987da801b13525393d434183fb33a9fc10a",
+      "uid": "5b0404b514ff806ecd9337050e5dcf19",
+      "username": "zedzed"
     },
     "merkle_root": {
-      "ctime": 1568156805,
-      "hash": "ca80fe50fb7405a7f4cb30d47ec434c4dab311019aaacfa84dfc77d180784bc6234bb90792fec6c860d201f85f248210f071b908420bb427a53293663a9c2544",
-      "hash_meta": "dfc7d278c9b2384d7cba35c213c66c4f15cefc81574584a76c9f01c4800b56fa",
-      "seqno": 6536543
+      "ctime": 1568220652,
+      "hash": "f65caead7aaff58748bdc995cadd728e344dbf1153a471a5fa1c370b337ea944444839a8ff48d60a5b5af79a196df9ee5fb16f01cf575a0cccaf657b423695d1",
+      "hash_meta": "97481dac9547bac78ca42a9f847e244ce546d72e742dcb702b1b0fc71cf743fe",
+      "seqno": 6765443
     },
     "service": {
-      "entropy": "Kmaue//5UIhcn5CrVNq30rBy",
+      "entropy": "Ofp5SNbah7feMkH4u8MslKOQ",
       "name": "github",
-      "username": "chutieuvn"
+      "username": "zedzed2"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,18 +36,18 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568156834,
+  "ctime": 1568220654,
   "expire_in": 504576000,
-  "prev": "0cdf716b4ced8fa39269c5745a28c723731e53683a3e378231996f416f8c07a8",
-  "seqno": 4,
+  "prev": "a5dab2a736bc517648f7b0c2bc08a8c7672f9b39afa4bd1ca9bcddcdc8c215c4",
+  "seqno": 16,
   "tag": "signature"
 }
 ```
 
-with the key [ASDY236m73m95M4_5ZRvCgbAJCakC3CwG6LjXlphpaKV_wo](https://keybase.io/chutieuvn90), yielding the signature:
+with the key [ASCBisIC-YvWTRJiXT591pJph9qAGxNSU5PUNBg_szqfwQo](https://keybase.io/zedzed), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2Nt+pu95veTOP+WUbwoGwCQmpAtwsBui415aYaWilf8Kp3BheWxvYWTESpcCBMQgDN9xa0ztj6OSacV0WijHI3MeU2g6PjeCMZlvQW+MB6jEIKqXmyJFSBaA2HUm+WijCxFUBuvMRCpqT8qZh/8xBsvBAgHCo3NpZ8RAJnvyQTQiPzi0/EOSIsh93OR/5xXZcyJV29XqpO/Hs5HPR962slWbr7EKJSGcN4KvxxBtw8v1xIekho0ZJC6sB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAflwfB/NrpYcZha0L77ZpcHBdC9zugkMa3SrONGBrd5o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggYrCAvmL1k0SYl0+fdaSaYfagBsTUlOT1DQYP7M6n8EKp3BheWxvYWTESpcCEMQgpdqypza8UXZI97DCvAiox2cvmzmvpL0cqbzdzcjCFcTEIMPiBYpSBobNaBzdA06zo+Ne980vzb7lmnRLlnD3s6zVAgHCo3NpZ8RAZovno/WmCxHU4RBWIPGLbZKH89iRNcKA+17mrMYPdXFky2/D6Xsqp7BnYBIWcFV7huNcaaOyq2m91O9liQxcAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBjJXiVcY5oNEkZR7rzdtHItE4xYsyJWWQR0YNX0PGIuo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/chutieuvn90
+https://keybase.io/zedzed
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id chutieuvn90
+keybase id zedzed
 ```
